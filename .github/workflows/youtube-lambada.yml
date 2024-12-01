@@ -1,0 +1,48 @@
+name: YouTube Lambada
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  collect-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: oven-sh/setup-bun@v2
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Create env
+        run: |
+          echo "YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" > .env
+          echo "CHANNEL_HANDLE=${{ secrets.CHANNEL_HANDLE }}" > .env
+
+      - name: Run YouTube Lambada and update the README.md
+        run: |
+          OUTPUT=$(node lambada.js)
+
+          awk '/## Results/{p=NR+1}/(^#.*$|$)/{if(p&&NR!=p){exit}}p{print}' README.md > temp1
+          awk '!/(## Results|\n)/' temp1 > temp2
+
+          awk -v output="$OUTPUT" '
+            /## Results/ {
+              print
+              print "\n\`\`\`"
+              print output
+              print "\`\`\`\n"
+              next
+            }
+            {print}
+          ' README.md > README.md.new
+
+          mv README.md.new README.md
+
+      - name: Commit and push if there are changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Don't mind me, just updating some YouTube stats $(date +'%Y-%m-%d')" && git push)

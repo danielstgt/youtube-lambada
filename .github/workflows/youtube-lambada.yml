@@ -48,5 +48,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add README.md
-          git commit -m "Don't mind me, just updating some YouTube stats $(date +'%Y-%m-%d')"
+          git commit -m "Don't mind me, just updating some YouTube stats $(date +'%Y-%m-%d')" --allow-empty
           git push

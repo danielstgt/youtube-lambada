@@ -185,9 +185,9 @@ const main = async () => {
             console.log(`${type.toUpperCase()}:`);
             console.log(`Total: ${stats.total[type]}`);
             console.log(`Average duration: ${Math.round(result.avg_duration)} Seconds`);
-            console.log(`Views: ${result.views.toLocaleString()}`);
-            console.log(`Comments: ${result.comments.toLocaleString()}`);
-            console.log(`Likes: ${result.likes.toLocaleString()}`);
+            console.log(`👀 Views: ${result.views.toLocaleString()}`);
+            console.log(`💬 Comments: ${result.comments.toLocaleString()}`);
+            console.log(`👍 Likes: ${result.likes.toLocaleString()}`);
 
             if (stats.total[type] > 0) {
                 console.log(`Average views: ${Math.round(result.views / stats.total[type]).toLocaleString()}`);
@@ -208,9 +208,9 @@ const main = async () => {
                 console.log(`URL: ${video.url}`);
                 console.log(`Published at: ${video.published_at}`);
                 console.log(`Duration: ${video.duration}`);
-                console.log(`Views: ${video.views}`);
-                console.log(`Comments: ${video.comments}`);
-                console.log(`Likes: ${video.likes}`);
+                console.log(`👀 Views: ${video.views}`);
+                console.log(`💬 Comments: ${video.comments}`);
+                console.log(`👍 Likes: ${video.likes}`);
                 console.log('\n');
             }
         }

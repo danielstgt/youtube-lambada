@@ -2,7 +2,7 @@
 
 Fetch the latest videos and stats from any YouTube channel. This runs daily with a GitHub action and commits the stats in this README.md file. Demonstration results below.
 
-## Run this local
+## Run this locally
 
 ```sh
 # copy the example env file and fill it with your key and channel handle

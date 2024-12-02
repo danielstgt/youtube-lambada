@@ -38,7 +38,7 @@ jobs:
             echo "$OUTPUT"
             echo -e "\`\`\`\n"
 
-            sed -n '/^## Results/,/^## /p' README.md | tail -n +2 | grep "^## " > /dev/null && sed -n '/^## Results/,$ {/^## /,$p}' README.md
+            sed -e '1,/^## Results/d' README.md | sed -n '/^## /,$p'
           ) > README.md.new
 
           mv README.md.new README.md

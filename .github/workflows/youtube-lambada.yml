@@ -43,7 +43,7 @@ jobs:
 
           mv README.md.new README.md
 
-      - name: Commit and push if there are changes
+      - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"

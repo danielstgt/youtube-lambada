@@ -1,6 +1,6 @@
 # YouTube Lambada
 
-Fetch the latest videos and stats from any YouTube channel. This runs daily with a GitHub action and commits the stats in this README.md file. Demonstration results below.
+Fetch the videos and some stats from any YouTube channel. The script runs on a daily schedule with a GitHub action and commits the results to this README.md file. Check the results below.
 
 ## Run this locally
 

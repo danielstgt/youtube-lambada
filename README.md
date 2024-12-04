@@ -29,10 +29,10 @@ If you're currently streaming, stop the screen sharing for this part: Go to *Rep
 NORMAL:
 Total: 6
 Average duration: 2933 Seconds
-👀 Views: 340
-💬 Comments: 6
+👀 Views: 345
+💬 Comments: 7
 👍 Likes: 31
-Average views: 57
+Average views: 58
 
 
 SHORTS:
@@ -45,12 +45,12 @@ Average views: 215
 
 
 LIVE:
-Total: 6
-Average duration: 3063 Seconds
-👀 Views: 290
+Total: 7
+Average duration: 3157 Seconds
+👀 Views: 309
 💬 Comments: 9
-👍 Likes: 22
-Average views: 48
+👍 Likes: 23
+Average views: 44
 
 
 
@@ -63,8 +63,8 @@ ID: XNCP8HG_C04
 URL: https://youtube.com/watch?v=XNCP8HG_C04
 Published at: 2024-11-28T11:00:40Z
 Duration: 3212
-👀 Views: 31
-💬 Comments: 0
+👀 Views: 34
+💬 Comments: 1
 👍 Likes: 4
 
 
@@ -73,7 +73,7 @@ ID: rzXSQ49ii-E
 URL: https://youtube.com/watch?v=rzXSQ49ii-E
 Published at: 2024-11-21T17:00:54Z
 Duration: 3476
-👀 Views: 32
+👀 Views: 33
 💬 Comments: 1
 👍 Likes: 1
 
@@ -113,7 +113,7 @@ ID: f_BsDpKCt3Y
 URL: https://youtube.com/watch?v=f_BsDpKCt3Y
 Published at: 2024-09-17T09:38:23Z
 Duration: 2033
-👀 Views: 117
+👀 Views: 118
 💬 Comments: 3
 👍 Likes: 12
 
@@ -162,12 +162,22 @@ Duration: 18
 
 LIVE:
 
+Title: [LIVE] GitHub Actions with Alba & Josi | Chatting As ANY
+ID: AFTjw3zVKBQ
+URL: https://youtube.com/watch?v=AFTjw3zVKBQ
+Published at: 2024-12-03T15:01:40Z
+Duration: 3721
+👀 Views: 18
+💬 Comments: 0
+👍 Likes: 1
+
+
 Title: [LIVE] Technical SEO & Web Performance with Estela ⚡️
 ID: SDcDutjZrp8
 URL: https://youtube.com/watch?v=SDcDutjZrp8
 Published at: 2024-11-27T03:51:49Z
 Duration: 3463
-👀 Views: 19
+👀 Views: 20
 💬 Comments: 0
 👍 Likes: 3
 

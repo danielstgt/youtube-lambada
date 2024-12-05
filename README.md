@@ -29,7 +29,7 @@ If you're currently streaming, stop the screen sharing for this part: Go to *Rep
 NORMAL:
 Total: 6
 Average duration: 2933 Seconds
-👀 Views: 345
+👀 Views: 346
 💬 Comments: 7
 👍 Likes: 31
 Average views: 58
@@ -38,19 +38,19 @@ Average views: 58
 SHORTS:
 Total: 4
 Average duration: 18 Seconds
-👀 Views: 861
+👀 Views: 862
 💬 Comments: 0
 👍 Likes: 10
-Average views: 215
+Average views: 216
 
 
 LIVE:
 Total: 7
-Average duration: 3157 Seconds
-👀 Views: 309
+Average duration: 3159 Seconds
+👀 Views: 315
 💬 Comments: 9
 👍 Likes: 23
-Average views: 44
+Average views: 45
 
 
 
@@ -83,7 +83,7 @@ ID: 0GcQv-IAGgY
 URL: https://youtube.com/watch?v=0GcQv-IAGgY
 Published at: 2024-11-02T19:24:42Z
 Duration: 2952
-👀 Views: 59
+👀 Views: 60
 💬 Comments: 1
 👍 Likes: 6
 
@@ -145,7 +145,7 @@ ID: ct03EQPbXYE
 URL: https://youtube.com/watch?v=ct03EQPbXYE
 Published at: 2024-11-01T08:39:55Z
 Duration: 10
-👀 Views: 43
+👀 Views: 44
 💬 Comments: 0
 👍 Likes: 1
 
@@ -165,9 +165,9 @@ LIVE:
 Title: [LIVE] GitHub Actions with Alba & Josi | Chatting As ANY
 ID: AFTjw3zVKBQ
 URL: https://youtube.com/watch?v=AFTjw3zVKBQ
-Published at: 2024-12-03T15:01:40Z
-Duration: 3721
-👀 Views: 18
+Published at: 2024-12-04T04:09:07Z
+Duration: 3737
+👀 Views: 24
 💬 Comments: 0
 👍 Likes: 1
 

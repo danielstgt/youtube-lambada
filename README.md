@@ -29,7 +29,7 @@ If you're currently streaming, stop the screen sharing for this part: Go to *Rep
 NORMAL:
 Total: 6
 Average duration: 2933 Seconds
-👀 Views: 347
+👀 Views: 348
 💬 Comments: 7
 👍 Likes: 31
 Average views: 58
@@ -47,10 +47,10 @@ Average views: 216
 LIVE:
 Total: 7
 Average duration: 3159 Seconds
-👀 Views: 318
+👀 Views: 320
 💬 Comments: 9
 👍 Likes: 23
-Average views: 45
+Average views: 46
 
 
 
@@ -63,7 +63,7 @@ ID: XNCP8HG_C04
 URL: https://youtube.com/watch?v=XNCP8HG_C04
 Published at: 2024-11-28T11:00:40Z
 Duration: 3212
-👀 Views: 34
+👀 Views: 35
 💬 Comments: 1
 👍 Likes: 4
 
@@ -167,7 +167,7 @@ ID: AFTjw3zVKBQ
 URL: https://youtube.com/watch?v=AFTjw3zVKBQ
 Published at: 2024-12-04T04:09:07Z
 Duration: 3737
-👀 Views: 26
+👀 Views: 28
 💬 Comments: 0
 👍 Likes: 1
 

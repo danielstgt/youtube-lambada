@@ -27,12 +27,12 @@ If you're currently streaming, stop the screen sharing for this part: Go to *Rep
 --- Stats by type ---
 
 NORMAL:
-Total: 6
-Average duration: 2933 Seconds
-👀 Views: 352
+Total: 7
+Average duration: 2845 Seconds
+👀 Views: 357
 💬 Comments: 7
 👍 Likes: 31
-Average views: 59
+Average views: 51
 
 
 SHORTS:
@@ -45,18 +45,28 @@ Average views: 216
 
 
 LIVE:
-Total: 7
-Average duration: 3159 Seconds
-👀 Views: 321
+Total: 6
+Average duration: 3063 Seconds
+👀 Views: 292
 💬 Comments: 9
-👍 Likes: 23
-Average views: 46
+👍 Likes: 22
+Average views: 49
 
 
 
 --- Videos by type ---
 
 NORMAL:
+
+Title: 1.7 - Setting up a GitHub Action to automatically list our episodes every Sunday (Live Coding)
+ID: iDwMhFh9r7o
+URL: https://youtube.com/watch?v=iDwMhFh9r7o
+Published at: 2024-12-08T21:46:05Z
+Duration: 2319
+👀 Views: 2
+💬 Comments: 0
+👍 Likes: 0
+
 
 Title: 1.6 - Technical SEO & Web Performance with Estela
 ID: XNCP8HG_C04
@@ -93,7 +103,7 @@ ID: 1ad-mpmTlhs
 URL: https://youtube.com/watch?v=1ad-mpmTlhs
 Published at: 2024-10-18T08:00:02Z
 Duration: 2702
-👀 Views: 38
+👀 Views: 39
 💬 Comments: 0
 👍 Likes: 3
 
@@ -113,7 +123,7 @@ ID: f_BsDpKCt3Y
 URL: https://youtube.com/watch?v=f_BsDpKCt3Y
 Published at: 2024-09-17T09:38:23Z
 Duration: 2033
-👀 Views: 121
+👀 Views: 123
 💬 Comments: 3
 👍 Likes: 12
 
@@ -161,16 +171,6 @@ Duration: 18
 
 
 LIVE:
-
-Title: [LIVE] GitHub Actions with Alba & Josi | Chatting As ANY
-ID: AFTjw3zVKBQ
-URL: https://youtube.com/watch?v=AFTjw3zVKBQ
-Published at: 2024-12-04T04:09:07Z
-Duration: 3737
-👀 Views: 29
-💬 Comments: 0
-👍 Likes: 1
-
 
 Title: [LIVE] Technical SEO & Web Performance with Estela ⚡️
 ID: SDcDutjZrp8

@@ -29,19 +29,19 @@ If you're currently streaming, stop the screen sharing for this part: Go to *Rep
 NORMAL:
 Total: 7
 Average duration: 2845 Seconds
-👀 Views: 357
+👀 Views: 371
 💬 Comments: 7
-👍 Likes: 31
-Average views: 51
+👍 Likes: 34
+Average views: 53
 
 
 SHORTS:
 Total: 4
 Average duration: 18 Seconds
-👀 Views: 865
+👀 Views: 867
 💬 Comments: 0
 👍 Likes: 10
-Average views: 216
+Average views: 217
 
 
 LIVE:
@@ -63,9 +63,9 @@ ID: iDwMhFh9r7o
 URL: https://youtube.com/watch?v=iDwMhFh9r7o
 Published at: 2024-12-08T21:46:05Z
 Duration: 2319
-👀 Views: 2
+👀 Views: 9
 💬 Comments: 0
-👍 Likes: 0
+👍 Likes: 1
 
 
 Title: 1.6 - Technical SEO & Web Performance with Estela
@@ -73,7 +73,7 @@ ID: XNCP8HG_C04
 URL: https://youtube.com/watch?v=XNCP8HG_C04
 Published at: 2024-11-28T11:00:40Z
 Duration: 3212
-👀 Views: 35
+👀 Views: 36
 💬 Comments: 1
 👍 Likes: 4
 
@@ -93,7 +93,7 @@ ID: 0GcQv-IAGgY
 URL: https://youtube.com/watch?v=0GcQv-IAGgY
 Published at: 2024-11-02T19:24:42Z
 Duration: 2952
-👀 Views: 60
+👀 Views: 61
 💬 Comments: 1
 👍 Likes: 6
 
@@ -103,9 +103,9 @@ ID: 1ad-mpmTlhs
 URL: https://youtube.com/watch?v=1ad-mpmTlhs
 Published at: 2024-10-18T08:00:02Z
 Duration: 2702
-👀 Views: 39
+👀 Views: 43
 💬 Comments: 0
-👍 Likes: 3
+👍 Likes: 5
 
 
 Title: 1.2 - Learning how to write & publish technical books with Maya Shavin
@@ -123,7 +123,7 @@ ID: f_BsDpKCt3Y
 URL: https://youtube.com/watch?v=f_BsDpKCt3Y
 Published at: 2024-09-17T09:38:23Z
 Duration: 2033
-👀 Views: 123
+👀 Views: 124
 💬 Comments: 3
 👍 Likes: 12
 
@@ -155,7 +155,7 @@ ID: ct03EQPbXYE
 URL: https://youtube.com/watch?v=ct03EQPbXYE
 Published at: 2024-11-01T08:39:55Z
 Duration: 10
-👀 Views: 45
+👀 Views: 46
 💬 Comments: 0
 👍 Likes: 1
 
@@ -165,7 +165,7 @@ ID: JcvSobBEnJU
 URL: https://youtube.com/watch?v=JcvSobBEnJU
 Published at: 2024-09-19T13:08:10Z
 Duration: 18
-👀 Views: 60
+👀 Views: 61
 💬 Comments: 0
 👍 Likes: 5
 

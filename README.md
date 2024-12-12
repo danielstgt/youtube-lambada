@@ -29,10 +29,10 @@ If you're currently streaming, stop the screen sharing for this part: Go to *Rep
 NORMAL:
 Total: 7
 Average duration: 2845 Seconds
-👀 Views: 379
-💬 Comments: 7
-👍 Likes: 34
-Average views: 54
+👀 Views: 391
+💬 Comments: 8
+👍 Likes: 35
+Average views: 56
 
 
 SHORTS:
@@ -63,9 +63,9 @@ ID: iDwMhFh9r7o
 URL: https://youtube.com/watch?v=iDwMhFh9r7o
 Published at: 2024-12-08T21:46:05Z
 Duration: 2319
-👀 Views: 10
-💬 Comments: 0
-👍 Likes: 1
+👀 Views: 15
+💬 Comments: 1
+👍 Likes: 2
 
 
 Title: 1.6 - Technical SEO & Web Performance with Estela
@@ -93,7 +93,7 @@ ID: 0GcQv-IAGgY
 URL: https://youtube.com/watch?v=0GcQv-IAGgY
 Published at: 2024-11-02T19:24:42Z
 Duration: 2952
-👀 Views: 62
+👀 Views: 65
 💬 Comments: 1
 👍 Likes: 6
 
@@ -103,7 +103,7 @@ ID: 1ad-mpmTlhs
 URL: https://youtube.com/watch?v=1ad-mpmTlhs
 Published at: 2024-10-18T08:00:02Z
 Duration: 2702
-👀 Views: 46
+👀 Views: 50
 💬 Comments: 0
 👍 Likes: 5
 

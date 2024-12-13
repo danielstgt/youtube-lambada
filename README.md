@@ -1,6 +1,6 @@
 # YouTube Lambada
 
-Fetch the videos and some stats from any YouTube channel. The script can run on a daily schedule with a GitHub action (see `.github/workflows/youtube-lambada.yml`) and commit the results to this README.md file in the `Results` section.
+Fetch the videos and some stats of a YouTube channel. The script can run on a daily schedule with a GitHub action (see `.github/workflows/youtube-lambada.yml`) and commit the results to this README.md file in the `Results` section.
 
 ## Run this locally
 
